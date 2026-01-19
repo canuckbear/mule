@@ -27,8 +27,8 @@ except ImportError:
 
 config = {
     'description': 'Multiple Use Linux Equipement',
-    'long_description': 'MULE is a ytool designed to ease the use of LXC container in its first vversion. Version two will also manage XEN VMs',
-    Virtual hosts are described in YAM files taking care nott to duplicate lxc configuration',
+    'long_description': 'MULE is a tool designed to ease the use of LXC containers in its first vversion. Version two will also manage XEN VMs',
+    'Virtual hosts are described in YAM files taking care nott to duplicate lxc configuration'
     'author': __author__,
     'url': 'https://github.com/wbonnet/mule/',
     'download_url': 'https://github.com/wbonnet/mule/',
