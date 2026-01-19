@@ -1,0 +1,18 @@
+1. Description
+
+MULE stand foe Multiple Usage Linux Equipment. It's an overlay to the DFT project output which add support for virualization and creion of separated excution environnment. Thus the Multiple usage.
+
+Comparated to a standrd DFT image MULE dos not only add virtualization support. By default it enforce security by adding roles from the DFT project which are not included in default images. Nor the virtualization layer as included by default.
+
+2.Specification
+2.1 Additional security roles
+The following additional roles are added to th default DFT image
+.
+2.2 Additional virtualization rolesé
+The following additional roles are added to th default DFT image
+.
+
+2.3 Misc roles
+
+2.4 Others
+- None identified so far
