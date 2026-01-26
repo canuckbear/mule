@@ -1,2 +1,2 @@
 # M.U.L.E.
-Multiple Usage Linux Equipment
+Multiple Use Linux Equipment
